@@ -1,113 +1,43 @@
-https://livea.streamready.in/ndtvindia/smil:common.smil/manifest.mpd
-https://livea.streamready.in/airtelspecialoffers/smil:common.smil/manifest.mpd
-#EXTINF:-1,SONY SPORTS TEN 1
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
-#EXTINF:-1,Somnath Temple
-#EXTINF:-1,Investigation Discovery
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd
-#EXTINF:-1,Times Now Navbharat HD
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd
-#EXTINF:-1,APN News
-https://delta47tatasky.akamaized.net/out/i/298431.mpd
-#EXTINF:-1,Russia Today
-#EXTINF:-1,Discovery Science
-#EXTINF:-1,9X Jalwa
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
-#EXTINF:-1,Aadinath TV
-https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd
-https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd
-#EXTINF:-1,News18 Bihar Jharkhand
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_854/output/manifest.mpd
-#EXTINF:-1,Star Pravah HD
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1147/output/manifest.mpd
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1928/output/manifest.mpd
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_970/output/manifest.mpd
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_297/output/manifest.mpd
-https://delta13tatasky.akamaized.net/out/i/6282177.mpd
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100157
-#EXTINF:-1,KTV HD
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifest.mpd
-#EXTINF:-1,Jaya TV HD
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/manifest.mpd
-#EXTINF:-1,Public Movies
-#EXTINF:-1,Udaya TV HD
-#EXTINF:-1,Kannada Naaptol
-#EXTINF:-1,Kaumudy TV
-#EXTINF:-1,Kappa TV
-https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_516/output/manifest.mpd
-#EXTINF:-1, Mumbai
-https://delta39tatasky.akamaized.net/out/i/5223418.mpd
-https://jansetutataplay.akamaized.net/hls10/jansetunews/index.m3u8
-https://cable55tataplay.akamaized.net/halchal/halchal/index.mpd
-https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd
-https://r.mjh.nz/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
-https://r.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
-#EXTINF:-1, Pluto TV Documentaries
-https://r.mjh.nz/PlutoTV/6132619f9ddaa50007e7dd86-alt.m3u8
-#EXTINF:-1, The Addams Family
-https://r.mjh.nz/PlutoTV/5f7794162a4559000781fc12-alt.m3u8
-#EXTINF:-1, CSI: NY
-https://r.mjh.nz/PlutoTV/61b3b8c645b45d0007a9bb8d-alt.m3u8
-https://r.mjh.nz/PlutoTV/61f07513227feb00073ee6bc-alt.m3u8
-https://r.mjh.nz/PlutoTV/5d7154fa8326b6ce4ec31f2e-alt.m3u8
-#EXTINF:-1, All Reality by WE tv
-https://r.mjh.nz/PlutoTV/603fde9026ecbf0007752c2c-alt.m3u8
-https://r.mjh.nz/PlutoTV/5f7791b8372da90007fd45e6-alt.m3u8
-#EXTINF:-1, Hot Bench
-https://r.mjh.nz/PlutoTV/61e9af6bfbbcc6000700119b-alt.m3u8
-#EXTINF:-1, Pluto TV Military
-#EXTINF:-1, ET
-https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
-https://r.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
-#EXTINF:-1, Ryan and Friends
-https://r.mjh.nz/PlutoTV/5e84db2db3851800077c871e-alt.m3u8
-#EXTINF:-1, Badass novelas
-#EXTINF:-1, Entre nosotras
-#EXTINF:-1, CBS News Philadelphia
-https://r.mjh.nz/PlutoTV/64ff1d3d3a0d700008b110e9-alt.m3u8
-https://r.mjh.nz/PlutoTV/656df2849d5ac400083be647-alt.m3u8
-#EXTINF:-1, 5 Emergency Rescue
-https://r.mjh.nz/PlutoTV/5ca1de9208ee5378be82db3b-alt.m3u8
-https://r.mjh.nz/PlutoTV/60804d85858bd00007c5d591-alt.m3u8
-https://r.mjh.nz/PlutoTV/635a77357bb27d0007d25c3f-alt.m3u8
-#EXTINF:-1, How To Use Pluto TV
-#EXTINF:-1, Inspector Gadget
-https://r.mjh.nz/PlutoTV/5f1ac8f49205650007bc15f1-alt.m3u8
-#EXTINF:-1, Pluto TV Cine Comedia
-https://r.mjh.nz/PlutoTV/5f1acce7f17797000718f9be-alt.m3u8
-https://r.mjh.nz/PlutoTV/61b9edc4a4ca6100070bb407-alt.m3u8
-https://r.mjh.nz/PlutoTV/62bdabbc5611f2000761ca30-alt.m3u8
-#EXTINF:-1, Cheers
-https://r.mjh.nz/PlutoTV/63f87df87533d80008ab9b4c-alt.m3u8
-#EXTINF:-1, Cheaters
-https://r.mjh.nz/PlutoTV/62cbff53ca8f2200080253b5-alt.m3u8
-#EXTINF:-1, Fixers and Flippers
-#EXTINF:-1, Nick Pluto TV
-https://r.mjh.nz/PlutoTV/6509bb783a0d700008c700aa-alt.m3u8
-https://r.mjh.nz/PlutoTV/65004605110545000842035d-alt.m3u8
-https://r.mjh.nz/PlutoTV/5e1c669094e0e80009b22ab8-alt.m3u8
-#EXTINF:-1, Germany Shore
-https://r.mjh.nz/PlutoTV/619b82cc70a9ba00074429e2-alt.m3u8
-#EXTINF:-1, MTV Shore
-#EXTINF:-1, Pluto TV Quebrando o Tabu
-https://r.mjh.nz/PlutoTV/60afb203ec391c00070ea1bf-alt.m3u8
-#EXTINF:-1, Gaming TV
-https://r.mjh.nz/PlutoTV/6093f9281db477000759fce0-alt.m3u8
-https://r.mjh.nz/PlutoTV/6464cd7c7cb4b100086c71c9-alt.m3u8
-#EXTINF:-1,Unknown_975
-http://headiptv.com:8080/movie/tolgaytopatan/1g1p1e2se/61383.mp4
-#EXTINF:-1,Unknown_10400
-#EXTINF:-1,Unknown_21264
-http://headiptv.com:8080/series/tolgaytopatan/1g1p1e2se/66397.mp4
-http://headiptv.com:8080/series/tolgaytopatan/1g1p1e2se/62781.mp4
-http://headiptv.com:8080/series/tolgaytopatan/1g1p1e2se/61901.mkv
-http://headiptv.com:8080/series/tolgaytopatan/1g1p1e2se/40291.mp4
-#EXTINF:-1,Unknown_35969
-#EXTINF:-1,Polsat 2 (Polonia) (🇵🇱)
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1,Fineskind
+http://208.88.245.85/nuevo/nyad.dual.2023.mkv
+http://208.88.245.85/nuevo/johnwick4.dual.2023.mkv
+#EXTINF:-1,HIGUITA EL CAMINO DEL ESCORPION
+http://208.88.245.81/nuevo/las.cintas.de.rosaperal.cast2023.mkv
+#EXTINF:-1,El conejo de terciopelo (2023)
+http://208.88.245.81/nuevo/el.triangulo.dela.tristeza.dual2023.mkv
+http://node-12.zeno.fm/grnmkq21hd0uv
+#EXTINF:-1,CORAL TV HD
+#EXTINF:-1,Unknown_513
+#EXTINF:-1,Unknown_3340
+#EXTINF:-1,Unknown_4327
+#EXTINF:-1, MTV BLOCK PARTY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
+https://3.ultimate2019.com/stream/hls/426
+https://3.ultimate2019.com/stream/hls/697
+#EXTINF:-1,Gala TV
+https://3.ultimate2019.com/stream/hls/891
+#EXTINF:-1,HBO
+https://3.ultimate2019.com/stream/hls/890
+#EXTINF:-1,MTV
+https://3.ultimate2019.com/stream/hls/334
+https://3.ultimate2019.com/stream/hls/682
+#EXTINF:-1,TNT
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?
+#EXTINF:-1, TVT HD
+http://play.lanet.tv/live/2009.m3u8
+#EXTINF:-1,Integración Radio
+#EXTINF:-1,COPE Salamanca
+http://streaming.enantena.com:8000/rtvelvendrell128.mp3
+#EXTINF:-1,Hit103
+#EXTINF:-1,Onda Latina
+https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8?PlaylistM3UCL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+https://inliveserver.com:1936/11548/11548/playlist.m3u8
+#EXTINF:-1,Becker
+#EXTINF:-1,Ecuavisa (1080p) [Not 24/7]
+#EXTINF:-1,MTV Pimp My Ride
+https://lte.wiseplayout.com/WiseM3U8_11/master.m3u8
+http://iptv.prosto.tv:7000/ch64/tracks-v1a1/index.m3u8
