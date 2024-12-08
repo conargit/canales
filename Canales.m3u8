@@ -1,30 +1,78 @@
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="A&E.(Andes).(A&E)..ec" tvg-name="CINE  | A&E HD" tvg-logo="https://i.postimg.cc/W4Q4ChkY/AEHD.png" group-title="🎬 CINE PREMIUM",CINE  | A&E HD
-#EXTINF:-1,Default
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/4d6d427b-f261-44b2-9c28-41351c105db7.m3u
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="231dtv.cl" tvg-name="⭐USA | TM | INTERNACIONAL FHD⭐" tvg-logo="" group-title="🔴 ZONA | TELMUNDO",⭐USA | TM | INTERNACIONAL FHD⭐
-#EXTINF:-1,Default
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/45e12d36-3b07-418f-9587-30a41e46af36.m3u
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="" tvg-name="⭐USA | TM | CHICAGO | FHD⭐" tvg-logo="" group-title="🔴 ZONA | TELMUNDO",⭐USA | TM | CHICAGO | FHD⭐
-#EXTINF:-1,Default
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/16e67f57-ff1c-4a49-8fa9-172f102e33f5.m3u
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="" tvg-name="GUA | CANAL GUATV" tvg-logo="https://radiosdeguate.com/i/tv/canal-8-santa-rosa.webp" group-title="🇬🇹 GUATEMALA",GUA | CANAL GUATV
-#EXTINF:-1,Default
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/b0323ca6-ded7-4e9e-9250-40145d76b84d.m3u
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="" tvg-name="GUA | Canal 27" tvg-logo="http://daleplay.club:8080/images/e5220b60b68f6e646c2180538a5ab715.png" group-title="🇬🇹 GUATEMALA",GUA | Canal 27
-#EXTINF:-1,Default
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/dd2b0233-443e-4f2c-bfdd-368381df1ab5.m3u
-#EXTINF:-1,Default
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/55f4e418-34dd-4df4-b723-85fb640d7880.m3u
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="" tvg-name="ES | *EUR0*SPORTS 2 HD." tvg-logo="" group-title="⚽ DEPORTE EUROPEO",ES | *EUR0*SPORTS 2 HD.
-#EXTINF:-1,Default
-http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/30d3c531-a053-4c81-9220-0e3bf830a229.m3u
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="" tvg-name="CBN Español (US)" tvg-logo="http://latinoamericatv.vip:3334/images/7bc9e29e830f3437c6eacf3250a23f91.png" group-title="✝️ RELIGIOSOS",CBN Español (US)
-#EXTINF:-1,Default
-#EXTINF:-1 tvg-id="" tvg-name="CUBA : CUBAVISION INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjULbo7ahgnklHnOIjknHIOMITXRhF4t4Qnw&usqp=CAU" group-title="🇨🇺 CUBA",CUBA : CUBAVISION INTERNACIONAL
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation SD" tvg-logo="https://i.postimg.cc/ryZBMDFD/photo-output.jpg" group-title="🎭 CULTURA",Discovery Investigation SD
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/094fbfda-ba97-46ce-91c6-7207d18e0149.m3u
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/0c280608-effd-403b-a22c-89dab71b56c4.m3u
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="LA 1" tvg-name="*M0VISTAR DRAMA HD™" tvg-logo="http://latinoamericatv.vip:8080/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="🇪🇸 MØVISTÅR Y ALQUILLER",*M0VISTAR DRAMA HD™
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/calle13_universal_hd.jpg" group-title="🇪🇸  CINE & SERIES",CALLE 13 HD
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/22b76d22-451f-4c72-b239-068e0492b3d4.m3u
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="LA 1" tvg-name="DMAX" tvg-logo="http://daleplaypro.com:8080/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="🇪🇸 DOCUMENTALES",DMAX
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/79a3d901-5ac4-433d-8747-ea0228502857.m3u
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="SV | TSp0rt (SOLO EVENTOS)" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jxvq5o1651502761.png" group-title="🇸🇻 EL SALVADOR",SV | TSp0rt (SOLO EVENTOS)
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/953a6c9e-182b-403e-a746-4e9ed341edfe.m3u
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="PN | SER TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGZUu6_88O0d_IrF-o3rkfC4wL53eknVUnQ&usqp=CAU" group-title="🇵🇦 PANAMA",PN | SER TV FHD
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="STAR.International.(Perú).(STAR)..ec" tvg-name="CINE | STAR CHANNEL  HD" tvg-logo="https://i.postimg.cc/7hsZ4kYb/SCHD.png" group-title="🎬 CINE PREMIUM",CINE | STAR CHANNEL  HD
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TⓝT  HD" tvg-logo="https://i.postimg.cc/gkVm8Bwx/TNTHD.png" group-title="🎬 CINE PREMIUM",CINE  | TⓝT  HD
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY  FHD" tvg-logo="https://i.postimg.cc/s293TtLQ/SFHD.png" group-title="🎬 CINE PREMIUM",CINE | SONY  FHD
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="🎬 CINE PREMIUM",CINE | GOLDEN EDG  HD
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://i.postimg.cc/PqFhMN1J/UHD.png" group-title="🎬 CINE PREMIUM",P | UNIVERSAL COMEDY HD
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 11 HD" tvg-logo="http://daleplay.club:8080/images/c9a4c6a93c929d40ca5da28d43d7be19.png" group-title="🇨🇷 COSTA RICA",CR | Repretel 11 HD
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/eea644cc-15dc-4352-af62-1ef062e4d2c1.m3u
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="USA | E$PN" tvg-logo="http://daleplay.club:8080/images/6fc08878f3be999a9671861377b14a21.png" group-title="🇺🇲 USA | SPØRTS",USA | E$PN
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="CADENA A | HD" tvg-logo="http://daleplay.club:8080/images/ee13338136340faa17845a1e2e946fdd.png" group-title="🇧🇴 BOLIVIA PREMIUM",CADENA A | HD
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="GUA | TN23" tvg-logo="http://daleplay.club:8080/images/c4ec68e9ddd882adc7260329d4234f21.png" group-title="🇬🇹 GUATEMALA",GUA | TN23
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PE| ATV HD" tvg-logo="https://i.ibb.co/drfp6ck/ATV.png" group-title="🇵🇪 PERU PREMIUM",PE| ATV HD
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/14220a54-7a67-4c33-aa98-3377aef9040c.m3u
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/248d1dbf-0bda-4c2c-9a40-e8dd422288d1.m3u
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="⭐| | Telenovelas Unv*⭐" tvg-logo="" group-title="🟡 ZØNA | TLNOVELAS",⭐| | Telenovelas Unv*⭐
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="TVG 2  GALICIA" tvg-logo="https://i.postimg.cc/mDtcWc12/descarga.png" group-title="🇪🇸 LOCALES",TVG 2  GALICIA
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/f0bee28f-d237-4f98-951c-6fffd2436803.m3u
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/aa0df4e0-b245-4b80-8aa9-216c6781d30f.m3u
+#EXTINF:-1,Link
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/933e49c8-8de9-46b0-894f-40c0f5c7b871.m3u
+#EXTINF:-1,Link
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/9fa9bdcc-1fdb-4c12-9afb-7bc30bfe697a.mkv
+#EXTINF:-1,Link
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/c5b9efa4-1d27-40b8-92c5-1674d289187c.mp4
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="Skyfall" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtQatL6ZJMsYEP9krYs9IHp4yDD.jpg" group-title="🎬 SAGAS ▶️",Skyfall
+#EXTINF:-1,Link
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/ff0a49fd-27e2-49e2-a691-af634159da51.mp4
+#EXTINF:-1,Link
+http://daleplay.club:8080/series/Jhon44xv/Eu5HqzGKwNQ7/551a9d70-2623-4481-9112-9607c5127fc4.mkv
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="María Mercedes S1 E39" tvg-logo="" group-title="* TELENOVELAS⏯️✅*",María Mercedes S1 E39
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="El abogado S3 E17" tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUw4_e22xiKBsg5tNLiZGZRTnaA2NwzRFCF48vpo38MXiwG_2rQyn9EjwnwtKBntbY.jpg" group-title="* SERIES RETRO⏯️✅*",El abogado S3 E17
+#EXTINF:-1,Link
+http://daleplay.club:8080/series/Jhon44xv/Eu5HqzGKwNQ7/e3cbe75d-6edc-4338-a66d-3314edacf164.mp4
+#EXTINF:-1,Link
+http://daleplay.club:8080/series/Jhon44xv/Eu5HqzGKwNQ7/133788af-318f-4674-8cce-f49d32094ce5.mp4
+#EXTINF:-1,Link
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S1 E114" tvg-logo="https://image.tmdb.org/t/p/w1280/dRapGRLPhmYbRngHVwjFKe9h6Bj.jpg" group-title="SERIES | DRAGON BALL",Dragon Ball Super S1 E114
