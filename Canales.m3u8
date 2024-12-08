@@ -36,18 +36,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="UR | ⒸⒶⓃⒶⓁ 12 SD" tvg-logo="s:1:/images/3b9a3d0e6c6b82e4d766b94dd8803e2f.png" group-title="🇺🇾 URUGUAY",UR | ⒸⒶⓃⒶⓁ 12 SD
 #EXTINF:-1 tvg-id="" tvg-name="UR | A+V H̷D̷" tvg-logo="http://daleplay.club:8080/images/4a5fb3ec3920c9bf9298d2ee69a43e1b.png" group-title="🇺🇾 URUGUAY",UR | A+V H̷D̷
 #EXTINF:-1 tvg-id="" tvg-name="UR |VTV FHD" tvg-logo="http://daleplay.club:8080/images/289f3a50f9d8e4aa44fb6a47ab966bb6.png" group-title="🇺🇾 URUGUAY",UR |VTV FHD
-#EXTINF:-1 tvg-id="" tvg-name="UR | *VTV PLUS HD ⚽" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="🇺🇾 URUGUAY",UR | *VTV PLUS HD ⚽
-#EXTINF:-1 tvg-id="" tvg-name="UR | *VTV PLUS FHD⚽" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="🇺🇾 URUGUAY",UR | *VTV PLUS FHD⚽
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://i.postimg.cc/8CPfscB9/DC.png" group-title="🎭 CULTURA",Discovery Channel SD
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation SD" tvg-logo="https://i.postimg.cc/ryZBMDFD/photo-output.jpg" group-title="🎭 CULTURA",Discovery Investigation SD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science HD" tvg-logo="https://i.postimg.cc/8cncbTSZ/photo-output.jpg" group-title="🎭 CULTURA",DISCOVERY Science HD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="https://i.postimg.cc/xTxMsS5D/photo-output.jpg" group-title="🎭 CULTURA",DISCOVERY Theater HD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo SD" tvg-logo="https://i.postimg.cc/J4knhZwG/DT.png" group-title="🎭 CULTURA",DISCOVERY Turbo SD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="https://i.postimg.cc/Hn3ghYFD/DW.png" group-title="🎭 CULTURA",DISCOVERY World SD
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET HD" tvg-logo="https://i.postimg.cc/MHyWBWVL/68ztl-ZE-1.png" group-title="🎭 CULTURA",EL GOURMET HD
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://i.postimg.cc/tgYp5dFW/HHD.jpg" group-title="🎭 CULTURA",HISTORY HD
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="HISTORY SD" tvg-logo="https://i.postimg.cc/FK8mnfxq/HHSD.jpg" group-title="🎭 CULTURA",HISTORY SD
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://i.postimg.cc/sxRzstq4/HC2-HD.jpg" group-title="🎭 CULTURA",History 2 HD
 #EXTINF:-1 tvg-id="" tvg-name="US: **DISNEY CHANNEL 2**" tvg-logo="s:1:/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKFmDARxe1MpwHd5naEqkGd0i9FsTPsGO4mGhCR86kSIKQ3UhTD_04mn_kLbu99beA.png" group-title="🇺🇲 USA | KIDS & FAMILY",US: **DISNEY CHANNEL 2**
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: **DISNEY CHANNEL 1**" tvg-logo="http://daleplay.club:8080/images/b1cb87605741a3a22c8d565d74a8b57b.png" group-title="🇺🇲 USA | KIDS & FAMILY",US: **DISNEY CHANNEL 1**
 #EXTINF:-1 tvg-id="" tvg-name="US: **DISNEY JR**" tvg-logo="http://daleplay.club:8080/images/b458ba2e0b1ddce0447e7c295b2727f2.png" group-title="🇺🇲 USA | KIDS & FAMILY",US: **DISNEY JR**
@@ -59,6 +47,3 @@
 #EXTINF:-1 tvg-id="" tvg-name="US: HBO SIGNATURE" tvg-logo="http://daleplay.club:8080/images/c202c96c71d0e8817ece662524bdce7a.png" group-title="🇺🇲 USA| MOVIE NETWORTS",US: HBO SIGNATURE
 #EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="http://daleplay.club:8080/images/6bb0d5d14331d5574244575ef118caa6.png" group-title="🇺🇲 USA| MOVIE NETWORTS",US: STARZ ENCORE CLASSIC
 #EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE WESTERNS" tvg-logo="http://daleplay.club:8080/images/bb0ce5935f18c27caa7556b6afe5a7fa.png" group-title="🇺🇲 USA| MOVIE NETWORTS",US: STARZENCORE WESTERNS
-#EXTINF:-1 tvg-id="" tvg-name="NIC:CANAL 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFtrmZUIxCkFA72qg3qmp6YlIk_3DMd8C5g&usqp=CAU" group-title="🇳🇮 NICARAGUA",NIC:CANAL 13
-#EXTINF:-1 tvg-id="" tvg-name="USA | UFC FIGHT PASS." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLrGbYJ8rW58YXUksTu0ZYW8Zg2c-PmfzIg&usqp=CAU" group-title="🥊 ZONA | WWE ,UFC BOXING",USA | UFC FIGHT PASS.
-#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="EC | ECUAVISA GQUIL HD" tvg-logo="https://i.postimg.cc/g2wcwrLp/ECUAVISAGUAYASHD.png" group-title="🇪🇨 ECUADOR PREMIUM",EC | ECUAVISA GQUIL HD
