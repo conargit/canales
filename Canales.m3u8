@@ -1,185 +1,55 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="⭐USA | TM | CHICAGO | FHD⭐" tvg-logo="" group-title="",⭐USA | TM | CHICAGO | FHD⭐
-#EXTINF:-1 tvg-id="" tvg-name="⭐USA | TM | CHICAGO | FHD⭐" tvg-logo="" group-title="🔴 ZONA | TELMUNDO"
-#EXTINF:-1 tvg-id="" tvg-name="*BL 1*" tvg-logo="" group-title="",*BL 1*
-#EXTINF:-1 tvg-id="" tvg-name="*BL 1*" tvg-logo="https://i.postimg.cc/HsNkGYFq/BUNDESLIGA.png" group-title="⚽ BUNDESLIGA"
-#EXTINF:-1 tvg-id="" tvg-name="⭐USA | TM | INTERNACIONAL FHD⭐" tvg-logo="" group-title="",⭐USA | TM | INTERNACIONAL FHD⭐
-#EXTINF:-1 tvg-id="231dtv.cl" tvg-name="⭐USA | TM | INTERNACIONAL FHD⭐" tvg-logo="" group-title="🔴 ZONA | TELMUNDO"
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E HD" tvg-logo="" group-title="",CINE  | A&E HD
-#EXTINF:-1 tvg-id="A&E.(Andes).(A&E)..ec" tvg-name="CINE  | A&E HD" tvg-logo="https://i.postimg.cc/W4Q4ChkY/AEHD.png" group-title="🎬 CINE PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="" group-title="",CINE  | CINEMAX HD
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://i.postimg.cc/N0b2515y/CMHD.png" group-title="🎬 CINE PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X $P0RTS 2 SD" tvg-logo="" group-title="",AR | F⚽X $P0RTS 2 SD
-#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X $P0RTS 2 SD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="⚽ ZONA | FOX SPORT"
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X SP0RTS 2  HD" tvg-logo="" group-title="",AR | F0X SP0RTS 2  HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X SP0RTS 2  HD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="⚽ ZONA | FOX SPORT"
-#EXTINF:-1 tvg-id="" tvg-name="GUA | CANAL 11" tvg-logo="" group-title="",GUA | CANAL 11
-#EXTINF:-1 tvg-id="" tvg-name="GUA | CANAL 11" tvg-logo="https://radiosecuador.online/jw9k" group-title="🇬🇹 GUATEMALA"
-#EXTINF:-1 tvg-id="" tvg-name="GUA | DEPORTE GUATEMALA**" tvg-logo="" group-title="",GUA | DEPORTE GUATEMALA**
-#EXTINF:-1 tvg-id="" tvg-name="GUA | DEPORTE GUATEMALA**" tvg-logo="" group-title="🇬🇹 GUATEMALA"
-#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10 (G)" tvg-logo="" group-title="",NIC | Canal 10 (G)
-#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10 (G)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1w1NEnyUMQF_dnE2ZBJzST5oqtYUD_PXfA&usqp=CAU" group-title="🇳🇮 NICARAGUA"
-#EXTINF:-1 tvg-id="" tvg-name="GUA | Canal 27" tvg-logo="" group-title="",GUA | Canal 27
-#EXTINF:-1 tvg-id="" tvg-name="GUA | Canal 27" tvg-logo="http://daleplay.club:8080/images/e5220b60b68f6e646c2180538a5ab715.png" group-title="🇬🇹 GUATEMALA"
-#EXTINF:-1 tvg-id="" tvg-name="GUA | CANAL ANTIGUA" tvg-logo="" group-title="",GUA | CANAL ANTIGUA
-#EXTINF:-1 tvg-id="" tvg-name="GUA | CANAL ANTIGUA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxx6HjZDVa0_an8Us8ShVcCcWNHCMN9I1ow&usqp=CAU" group-title="🇬🇹 GUATEMALA"
-#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS +  HD" tvg-logo="" group-title="",CO | WIN SPORTS +  HD
-#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS +  HD" tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png" group-title="🇨🇴 COLOMBIA DEPORTES ⚽"
-#EXTINF:-1 tvg-id="" tvg-name="GUA | CANAL GUATV" tvg-logo="" group-title="",GUA | CANAL GUATV
-#EXTINF:-1 tvg-id="" tvg-name="GUA | CANAL GUATV" tvg-logo="https://radiosdeguate.com/i/tv/canal-8-santa-rosa.webp" group-title="🇬🇹 GUATEMALA"
-#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X $P0RTS. 3 HD" tvg-logo="" group-title="",AR | F⚽X $P0RTS. 3 HD
-#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X $P0RTS. 3 HD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="⚽ ZONA | FOX SPORT"
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X SPORTS 3 SD" tvg-logo="" group-title="",AR | F0X SPORTS 3 SD
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X SPORTS 3 SD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="⚽ ZONA | FOX SPORT"
-#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR DRAMA HD." tvg-logo="" group-title="",ES | M0VISTAR DRAMA HD.
-#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR DRAMA HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw82pd0GvckzhcuVUOmcVLeSNsxU3tZUAMdA&usqp=CAU" group-title="🇪🇸 MØVISTÅR Y ALQUILLER"
-#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR CINEDOC&ROLL HD." tvg-logo="" group-title="",ES | M0VISTAR CINEDOC&ROLL HD.
-#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR CINEDOC&ROLL HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZRwtewzf_RQdfp8oULWbq11-frdivSAteQ&usqp=CAU" group-title="🇪🇸 MØVISTÅR Y ALQUILLER"
-#EXTINF:-1 tvg-id="" tvg-name="ES | *EUR0*SPORTS 2 HD." tvg-logo="" group-title="",ES | *EUR0*SPORTS 2 HD.
-#EXTINF:-1 tvg-id="" tvg-name="ES | *EUR0*SPORTS 2 HD." tvg-logo="" group-title="⚽ DEPORTE EUROPEO"
-#EXTINF:-1 tvg-id="" tvg-name="ES | BN Ñ HD." tvg-logo="" group-title="",ES | BN Ñ HD.
-#EXTINF:-1 tvg-id="" tvg-name="ES | BN Ñ HD." tvg-logo="" group-title="⚽ LIGUE 1 FRANCE"
-#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR DCINE Ñ" tvg-logo="" group-title="",ES | M0VISTAR DCINE Ñ
-#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR DCINE Ñ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNz6UVdq0ZEJR8SaHnT7iCkoPy7oaetFcM1w&usqp=CAU" group-title="🇪🇸 MØVISTÅR Y ALQUILLER"
-#EXTINF:-1 tvg-id="" tvg-name="Red ADVenir (BO)" tvg-logo="" group-title="",Red ADVenir (BO)
-#EXTINF:-1 tvg-id="" tvg-name="Red ADVenir (BO)" tvg-logo="http://latinoamericatv.vip:3334/images/0eb127774a665b009c026196799b42b3.png" group-title="✝️ RELIGIOSOS"
-#EXTINF:-1 tvg-id="" tvg-name="CBN Español (US)" tvg-logo="" group-title="",CBN Español (US)
-#EXTINF:-1 tvg-id="" tvg-name="CBN Español (US)" tvg-logo="http://latinoamericatv.vip:3334/images/7bc9e29e830f3437c6eacf3250a23f91.png" group-title="✝️ RELIGIOSOS"
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPⓝ HD" tvg-logo="" group-title="",US: ESPⓝ HD
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPⓝ HD" tvg-logo="http://daleplay.club:8080/images/e907e734f6ba16954a9d76cb40bc6998.jpg" group-title="🇺🇲 USA | SPØRTS"
-#EXTINF:-1 tvg-id="" tvg-name="CUBA : CUBAVISION INTERNACIONAL" tvg-logo="" group-title="",CUBA : CUBAVISION INTERNACIONAL
-#EXTINF:-1 tvg-id="" tvg-name="CUBA : CUBAVISION INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjULbo7ahgnklHnOIjknHIOMITXRhF4t4Qnw&usqp=CAU" group-title="🇨🇺 CUBA"
-#EXTINF:-1 tvg-id="" tvg-name="USA : E$PN 2" tvg-logo="" group-title="",USA : E$PN 2
-#EXTINF:-1 tvg-id="" tvg-name="USA : E$PN 2" tvg-logo="http://daleplaypro.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="🇺🇲 USA | SPØRTS"
-#EXTINF:-1 tvg-id="" tvg-name="CUBA : CUBAVISION" tvg-logo="" group-title="",CUBA : CUBAVISION
-#EXTINF:-1 tvg-id="" tvg-name="CUBA : CUBAVISION" tvg-logo="http://latinoamericatv.vip:3334/images/3c924a41af573cc9cf4d99349109de82.png" group-title="🇨🇺 CUBA"
-#EXTINF:-1 tvg-id="" tvg-name="CUBA: AMRERICA TV" tvg-logo="" group-title="",CUBA: AMRERICA TV
-#EXTINF:-1 tvg-id="" tvg-name="CUBA: AMRERICA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT14BfNBhipU1tdmUOvvTN60FrOpQWaMwoew&usqp=CAU" group-title="🇨🇺 CUBA"
-#EXTINF:-1 tvg-id="" tvg-name="CUBA: MULTIVISION" tvg-logo="" group-title="",CUBA: MULTIVISION
-#EXTINF:-1 tvg-id="" tvg-name="CUBA: MULTIVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTdXhVLlYMEz2gtSJksflzjJrCx3HLeLMRg&usqp=CAU" group-title="🇨🇺 CUBA"
-#EXTINF:-1 tvg-id="" tvg-name="Cubavision" tvg-logo="" group-title="",Cubavision
-#EXTINF:-1 tvg-id="" tvg-name="Cubavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjULbo7ahgnklHnOIjknHIOMITXRhF4t4Qnw&usqp=CAU" group-title="🇨🇺 CUBA"
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA | telesur" tvg-logo="" group-title="",VENEZUELA | telesur
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA | telesur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8opX8UvFl5d4-dCeoAhkGp2uru6iAypEeiw&usqp=CAU" group-title="🇻🇪 VENEZUELA"
-#EXTINF:-1 tvg-id="" tvg-name="UR | ⒸⒶⓃⒶⓁ (4 ) MO̷NTECÅRLO̷ H̷D̷" tvg-logo="" group-title="",UR | ⒸⒶⓃⒶⓁ (4 ) MO̷NTECÅRLO̷ H̷D̷
-#EXTINF:-1 tvg-id="" tvg-name="UR | ⒸⒶⓃⒶⓁ (4 ) MO̷NTECÅRLO̷ H̷D̷" tvg-logo="https://ipectv.com/8qa3" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="UR | ⒸⒶⓃⒶⓁ 12 TELEDO̷CE  H̷D̷" tvg-logo="" group-title="",UR | ⒸⒶⓃⒶⓁ 12 TELEDO̷CE  H̷D̷
-#EXTINF:-1 tvg-id="" tvg-name="UR | ⒸⒶⓃⒶⓁ 12 TELEDO̷CE  H̷D̷" tvg-logo="http://daleplay.club:8080/images/e81fc7b63e8d3ee68495d260d1aa7bcf.png" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="UR | A+V H̷D̷" tvg-logo="" group-title="",UR | A+V H̷D̷
-#EXTINF:-1 tvg-id="" tvg-name="UR | A+V H̷D̷" tvg-logo="http://daleplay.club:8080/images/4a5fb3ec3920c9bf9298d2ee69a43e1b.png" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="UR |ⒸⒶⓃⒶⓁ 10 SAETA H̷D̷" tvg-logo="" group-title="",UR |ⒸⒶⓃⒶⓁ 10 SAETA H̷D̷
-#EXTINF:-1 tvg-id="" tvg-name="UR |ⒸⒶⓃⒶⓁ 10 SAETA H̷D̷" tvg-logo="s:1:/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqI5TEiMLb6a1aqqnLZNL6kN5cH2dE_7tehT9act9b3UOkk4LVMHO1NdqC12Tod05AE.png" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="UR | ⒸⒶⓃⒶⓁ 12 SD" tvg-logo="" group-title="",UR | ⒸⒶⓃⒶⓁ 12 SD
-#EXTINF:-1 tvg-id="" tvg-name="UR | ⒸⒶⓃⒶⓁ 12 SD" tvg-logo="s:1:/images/3b9a3d0e6c6b82e4d766b94dd8803e2f.png" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="UR |VTV FHD" tvg-logo="" group-title="",UR |VTV FHD
-#EXTINF:-1 tvg-id="" tvg-name="UR |VTV FHD" tvg-logo="http://daleplay.club:8080/images/289f3a50f9d8e4aa44fb6a47ab966bb6.png" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="UR | *VTV PLUS FHD⚽" tvg-logo="" group-title="",UR | *VTV PLUS FHD⚽
-#EXTINF:-1 tvg-id="" tvg-name="UR | *VTV PLUS FHD⚽" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="UR | *VTV PLUS HD ⚽" tvg-logo="" group-title="",UR | *VTV PLUS HD ⚽
-#EXTINF:-1 tvg-id="" tvg-name="UR | *VTV PLUS HD ⚽" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="🇺🇾 URUGUAY"
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="" group-title="",Discovery Channel SD
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://i.postimg.cc/8CPfscB9/DC.png" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation SD" tvg-logo="" group-title="",Discovery Investigation SD
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation SD" tvg-logo="https://i.postimg.cc/ryZBMDFD/photo-output.jpg" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="" group-title="",DISCOVERY Theater HD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="https://i.postimg.cc/xTxMsS5D/photo-output.jpg" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science HD" tvg-logo="" group-title="",DISCOVERY Science HD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science HD" tvg-logo="https://i.postimg.cc/8cncbTSZ/photo-output.jpg" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="" group-title="",DISCOVERY World SD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="https://i.postimg.cc/Hn3ghYFD/DW.png" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo SD" tvg-logo="" group-title="",DISCOVERY Turbo SD
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo SD" tvg-logo="https://i.postimg.cc/J4knhZwG/DT.png" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="" group-title="",HISTORY HD
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://i.postimg.cc/tgYp5dFW/HHD.jpg" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET HD" tvg-logo="" group-title="",EL GOURMET HD
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET HD" tvg-logo="https://i.postimg.cc/MHyWBWVL/68ztl-ZE-1.png" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="" group-title="",HISTORY SD
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="HISTORY SD" tvg-logo="https://i.postimg.cc/FK8mnfxq/HHSD.jpg" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="" group-title="",History 2 HD
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://i.postimg.cc/sxRzstq4/HC2-HD.jpg" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="US: **DISNEY CHANNEL 2**" tvg-logo="" group-title="",US: **DISNEY CHANNEL 2**
-#EXTINF:-1 tvg-id="" tvg-name="US: **DISNEY CHANNEL 2**" tvg-logo="s:1:/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKFmDARxe1MpwHd5naEqkGd0i9FsTPsGO4mGhCR86kSIKQ3UhTD_04mn_kLbu99beA.png" group-title="🇺🇲 USA | KIDS & FAMILY"
-#EXTINF:-1 tvg-id="" tvg-name="US: **DISNEY CHANNEL 1**" tvg-logo="" group-title="",US: **DISNEY CHANNEL 1**
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: **DISNEY CHANNEL 1**" tvg-logo="http://daleplay.club:8080/images/b1cb87605741a3a22c8d565d74a8b57b.png" group-title="🇺🇲 USA | KIDS & FAMILY"
-#EXTINF:-1 tvg-id="" tvg-name="US: NICKTOONS" tvg-logo="" group-title="",US: NICKTOONS
-#EXTINF:-1 tvg-id="" tvg-name="US: NICKTOONS" tvg-logo="http://daleplay.club:8080/images/232962179b90b841bccb22148b25de77.png" group-title="🇺🇲 USA | KIDS & FAMILY"
-#EXTINF:-1 tvg-id="" tvg-name="US: **DISNEY JR**" tvg-logo="" group-title="",US: **DISNEY JR**
-#EXTINF:-1 tvg-id="" tvg-name="US: **DISNEY JR**" tvg-logo="http://daleplay.club:8080/images/b458ba2e0b1ddce0447e7c295b2727f2.png" group-title="🇺🇲 USA | KIDS & FAMILY"
-#EXTINF:-1 tvg-id="" tvg-name="US: 5 STARMAX" tvg-logo="" group-title="",US: 5 STARMAX
-#EXTINF:-1 tvg-id="" tvg-name="US: 5 STARMAX" tvg-logo="http://daleplay.club:8080/images/a74acac51a09c41d12051fdaaf459476.png" group-title="🇺🇲 USA| MOVIE NETWORTS"
-#EXTINF:-1 tvg-id="" tvg-name="US: ACTIONMAX" tvg-logo="" group-title="",US: ACTIONMAX
-#EXTINF:-1 tvg-id="" tvg-name="US: ACTIONMAX" tvg-logo="http://daleplay.club:8080/images/160bf9730f9699b6025b49a730d864ed.png" group-title="🇺🇲 USA| MOVIE NETWORTS"
-#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX EAST" tvg-logo="" group-title="",US: CINEMAX EAST
-#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX EAST" tvg-logo="https://i.postimg.cc/g0qvh7kF/CINEMAX.png" group-title="🇺🇲 USA| MOVIE NETWORTS"
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO SIGNATURE" tvg-logo="" group-title="",US: HBO SIGNATURE
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO SIGNATURE" tvg-logo="http://daleplay.club:8080/images/c202c96c71d0e8817ece662524bdce7a.png" group-title="🇺🇲 USA| MOVIE NETWORTS"
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX" tvg-logo="" group-title="",US: EPIX
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX" tvg-logo="http://daleplay.club:8080/images/e1ae849b31bb146485b11ed0c53f1c73.png" group-title="🇺🇲 USA| MOVIE NETWORTS"
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="" group-title="",US: STARZ ENCORE CLASSIC
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="http://daleplay.club:8080/images/6bb0d5d14331d5574244575ef118caa6.png" group-title="🇺🇲 USA| MOVIE NETWORTS"
-#EXTINF:-1 tvg-id="" tvg-name="NIC:CANAL 13" tvg-logo="" group-title="",NIC:CANAL 13
-#EXTINF:-1 tvg-id="" tvg-name="NIC:CANAL 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFtrmZUIxCkFA72qg3qmp6YlIk_3DMd8C5g&usqp=CAU" group-title="🇳🇮 NICARAGUA"
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE WESTERNS" tvg-logo="" group-title="",US: STARZENCORE WESTERNS
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE WESTERNS" tvg-logo="http://daleplay.club:8080/images/bb0ce5935f18c27caa7556b6afe5a7fa.png" group-title="🇺🇲 USA| MOVIE NETWORTS"
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA INTER HD" tvg-logo="" group-title="",EC | ECUAVISA INTER HD
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA INTER HD" tvg-logo="https://i.postimg.cc/05VXngkK/ECU3.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="EC | TELEAMAZONAS UIO HD" tvg-logo="" group-title="",EC | TELEAMAZONAS UIO HD
-#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="EC | TELEAMAZONAS UIO HD" tvg-logo="https://i.postimg.cc/Y2nYwdG0/TELEAMAZONASHD.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="EC | OROMAR TV HD" tvg-logo="" group-title="",EC | OROMAR TV HD
-#EXTINF:-1 tvg-id="lch3095.ecu" tvg-name="EC | OROMAR TV HD" tvg-logo="https://i.postimg.cc/6pQx7LB8/OROMARHD.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="EC TC TELEVISION SD" tvg-logo="" group-title="",EC TC TELEVISION SD
-#EXTINF:-1 tvg-id="TC.Televisión.(TCTV)..ec" tvg-name="EC TC TELEVISION SD" tvg-logo="https://i.postimg.cc/1thNrXgx/TCSD.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="EC | OROMAR SD" tvg-logo="" group-title="",EC | OROMAR SD
-#EXTINF:-1 tvg-id="" tvg-name="EC | OROMAR SD" tvg-logo="https://i.postimg.cc/xTh3H92L/OROMARSD.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA GQUIL HD" tvg-logo="" group-title="",EC | ECUAVISA GQUIL HD
-#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="EC | ECUAVISA GQUIL HD" tvg-logo="https://i.postimg.cc/g2wcwrLp/ECUAVISAGUAYASHD.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="UFC BOXING"" tvg-logo="USA | UFC FIGHT PASS." group-title="",UFC BOXING"
-#EXTINF:-1 tvg-id="" tvg-name="USA | UFC FIGHT PASS." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLrGbYJ8rW58YXUksTu0ZYW8Zg2c-PmfzIg&usqp=CAU" group-title="🥊 ZONA | WWE 
-#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA GQUIL SD" tvg-logo="" group-title="",EC | ECUAVISA GQUIL SD
-#EXTINF:-1 tvg-id="182dtv.ec" tvg-name="EC | ECUAVISA GQUIL SD" tvg-logo="https://i.postimg.cc/CKmcWMJZ/ECUAVISAGUAYASSD.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="EC | GAMAVISION HD" tvg-logo="" group-title="",EC | GAMAVISION HD
-#EXTINF:-1 tvg-id="Gama.TV.(GAMATV)..ec" tvg-name="EC | GAMAVISION HD" tvg-logo="https://i.postimg.cc/FHfC6Cb1/IMG-6808.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="EC | ⱧECHOS ECUADOR  HD" tvg-logo="" group-title="",EC | ⱧECHOS ECUADOR  HD
-#EXTINF:-1 tvg-id="" tvg-name="EC | ⱧECHOS ECUADOR  HD" tvg-logo="https://i.postimg.cc/4Nkk9xJj/HECHOSTVHD.png" group-title="🇪🇨 ECUADOR PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD" tvg-logo="" group-title="",ANIMAL Planet HD
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD" tvg-logo="https://i.postimg.cc/D0h9t14C/APHD.jpg" group-title="🎭 CULTURA"
-#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 SD" tvg-logo="" group-title="",CL | CANAL 13 SD
-#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 SD" tvg-logo="https://www-storage.13.cl/13cl/img/default.jpg" group-title="🇨🇱 CHILE PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION HD" tvg-logo="" group-title="",CL | CHILEVISION HD
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=s900-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 CHILE PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION SD" tvg-logo="" group-title="",CL | CHILEVISION SD
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=s900-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 CHILE PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="" group-title="",CL | MEGA HD
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱 CHILE PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="CL |  MEGA SD" tvg-logo="" group-title="",CL |  MEGA SD
-#EXTINF:-1 tvg-id="" tvg-name="CL |  MEGA SD" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱 CHILE PREMIUM"
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00's" tvg-logo="" group-title="",MTV 00's
-#EXTINF:-1 tvg-id="I413.12712.schedulesdirect.org" tvg-name="MTV 00's" tvg-logo="https://i.picasion.com/pic91/1f114713b8b819a11aa5eaf1c723bb35.gif" group-title="🎵 MÚSICA"
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZ Corazon" tvg-logo="" group-title="",MX: AZ Corazon
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: AZ Corazon" tvg-logo="https://i.postimg.cc/X7RfzGfy/corazon.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA HD" tvg-logo="" group-title="",MX: DISTRITO COMEDIA HD
-#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA HD" tvg-logo="https://i.postimg.cc/wBGLD1jv/dc-comedia.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA SD" tvg-logo="" group-title="",MX: DISTRITO COMEDIA SD
-#EXTINF:-1 tvg-id="" tvg-name="MX: DISTRITO COMEDIA SD" tvg-logo="https://i.postimg.cc/wBGLD1jv/dc-comedia.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESTRELLA TV" tvg-logo="" group-title="",MX: ESTRELLA TV
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESTRELLA TV" tvg-logo="https://i.postimg.cc/4yb97Cb5/estrella-tv.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: TELEVISA MONTERREY" tvg-logo="" group-title="",MX: TELEVISA MONTERREY
-#EXTINF:-1 tvg-id="" tvg-name="MX: TELEVISA MONTERREY" tvg-logo="https://i.postimg.cc/qvsPZ1B3/televisa-monterrey.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: CINE LATINO" tvg-logo="" group-title="",MX: CINE LATINO
-#EXTINF:-1 tvg-id="" tvg-name="MX: CINE LATINO" tvg-logo="https://i.postimg.cc/NMGqqmCj/cine-latino.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL ONCE" tvg-logo="" group-title="",MX: CANAL ONCE
-#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL ONCE" tvg-logo="https://i.postimg.cc/L4CRSQpK/once.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA UNO HD" tvg-logo="" group-title="",MX: AZTECA UNO HD
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA UNO HD" tvg-logo="https://i.postimg.cc/9F66XvgS/azteca-uno.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: MILENIO TV" tvg-logo="" group-title="",MX: MILENIO TV
-#EXTINF:-1 tvg-id="" tvg-name="MX: MILENIO TV" tvg-logo="https://i.postimg.cc/q7jDKYQp/milenio.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula" tvg-logo="" group-title="",MX: De Pelicula
-#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula" tvg-logo="https://i.postimg.cc/tCG0pKMc/d-pelicula.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="" group-title="",CO | El Tiempo
-#EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NUEVO_LOGO_DE_EL_TIEMPO_HD.jpg" group-title="🇨🇴 COLOMBIA"
-#EXTINF:-1 tvg-id="" tvg-name="MX: DE PELICULAS PLUS" tvg-logo="" group-title="",MX: DE PELICULAS PLUS
-#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="MX: DE PELICULAS PLUS" tvg-logo="https://i.postimg.cc/cC8FVJWJ/d-pelicula-plus.png" group-title="🇲🇽 MEXICO"
-#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="" group-title="",MX: Comedy Central
-#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="https://i.postimg.cc/SR09tH8b/comedy-central.png" group-title="🇲🇽 MEXICO"
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/645f3014-6d23-4ef2-b1a9-0244244a3bad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=s900-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 CHILE PREMIUM",CL | CHILEVISION HD
+#EXTINF:-1 tvg-id="I413.12712.schedulesdirect.org" tvg-name="MTV 00's" tvg-logo="https://i.picasion.com/pic91/1f114713b8b819a11aa5eaf1c723bb35.gif" group-title="🎵 MÚSICA",MTV 00's
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="http://latinoamericatv.vip:8080/images/9ac58ba7f1ca41bfe3b921b74bf30570.png" group-title="🇻🇪 VENEZUELA",Telesur
+#EXTINF:-1 tvg-id="" tvg-name="Ve Plus" tvg-logo="http://latinoamericatv.vip:8080/images/fa7a5146888efa8578ff5e90543180c4.jpg" group-title="🇻🇪 VENEZUELA",Ve Plus
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/3b3e38af-412f-4470-8199-270f7e7340dd.m3u
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/422b9723-4cf4-427e-b744-5b4cf490a3e7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="││NICA││ CANAL 2  [HD]" tvg-logo="http://daleplay.club:8080/images/4e8158e9faa2f5c0044c6402b8ed401c.png" group-title="🇳🇮 NICARAGUA",││NICA││ CANAL 2  [HD]
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/89f0b456-bae8-4117-adc2-25d37b21b76f.m3u
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/61f6287e-4a88-45ad-a059-7c026243adf3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SP0RT TV 2 HD ᴴᵉᵛᶜ" tvg-logo="http://daleplay.club:8080/images/df007b2ccba0666a9868266c37656407.jpg" group-title="⚽ DEPORTE EUROPEO",SP0RT TV 2 HD ᴴᵉᵛᶜ
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/1ed26c32-e591-46b0-bdce-5604eb6b5ed3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ES | TELEDEPORTE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNiQ8xvWC5hga3fhg3gGxzy6RgFEjVdn8eA&usqp=CAU" group-title="🇪🇸 DEPORTES ⚽",ES | TELEDEPORTE SD
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/7415b95f-427b-4177-8d05-0f6de12cda08.m3u
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/5e56d31e-325f-4cf4-8ca9-afe3db4c367a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="XXX | RedTraffic Big Ass(Q)" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/19ea463d-a1ce-4f16-b851-7930c54c0ea6.png" group-title="🔞 ADULTOS",XXX | RedTraffic Big Ass(Q)
+#EXTINF:-1 tvg-id="" tvg-name="XXX | BIPHORIA" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/19ea463d-a1ce-4f16-b851-7930c54c0ea6.png" group-title="🔞 ADULTOS",XXX | BIPHORIA
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/81cd97c0-397b-489f-90c4-ae551895d907.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MLS: 08 (SOLO EVENTOS)" tvg-logo="https://i.postimg.cc/wBpgrK8c/MLSV.png" group-title="⚽ ZONA | MLS",MLS: 08 (SOLO EVENTOS)
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/f4ad42d3-4c4a-431f-a336-003b8d2932d7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB COCHABANBA HD." tvg-logo="http://daleplay.club:8080/images/0a879296f2ab20d6b0d1facf7c6c8b36.png" group-title="🇧🇴 BOLIVIA PREMIUM",BOL : ATB COCHABANBA HD.
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVIA TV 7.1 HD" tvg-logo="http://daleplay.club:8080/images/951665385dc2c61714a12f8da821a1ba.png" group-title="🇧🇴 BOLIVIA PREMIUM",BOL : BOLIVIA TV 7.1 HD
+#EXTINF:-1 tvg-id="panamericanatv.pe" tvg-name="PE| PANAMERICANA HD" tvg-logo="https://i.ibb.co/y8nsLyp/panamericana.png" group-title="🇵🇪 PERU PREMIUM",PE| PANAMERICANA HD
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/39ce9b95-cd0e-47a4-bd3f-d7311780fab0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 4 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",E$PN 4 HD
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/a1ca1dd7-4645-4a84-9f88-7651967c66a3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US | TM TUCSON" tvg-logo="" group-title="🔴 ZONA | TELMUNDO",US | TM TUCSON
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/9506f95f-7a5e-497d-b9c3-b6bd48910233.m3u
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/025489fc-2d75-49ec-bea6-b91393258eb6.m3u
+http://daleplay.club:8080/live/Jhon44xv/Eu5HqzGKwNQ7/9c46cb58-c078-4fd2-a462-625e6d843e89.m3u
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/1ef74dda-9450-4bf8-af5a-42153bab2f0b.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Centinela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz60oMLIyZfkww0y4AiZ5uTNRqL.jpg" group-title="🎬 NETFLIX ▶️",Centinela
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/bfc954d9-5b1f-4132-87f8-aa581e2c09d5.mp4
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/50773cdc-cf1b-4d6c-9c11-8d94f7f7ebcb.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mañana te cuento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6NvmnFgDaJYmNBwOru0clZhhV9.jpg" group-title="🎬 PERÚ ▶️",Mañana te cuento
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/c30eab36-6bd7-4202-88c6-1cb36d4a4ca9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuento de Navidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meN97hs1BtmChq16NFhWxOI8och.jpg" group-title="🎬 ESPECIAL NAVIDAD 🎄",Cuento de Navidad
+#EXTINF:-1 tvg-id="" tvg-name="Orgasmos Con Mi Amiga   Hotgo" tvg-logo="http://daleplay.club:8080/images/d9b639b2ad4ca5e733b5435b5825fbc4.jpg" group-title="🎬 ADULTOS 🔞",Orgasmos Con Mi Amiga   Hotgo
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/5d60af09-65e1-40e2-b764-af70e7319be0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo: Comienza el misterio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNwINhp3Hu5OPClHFc2wKnETdLJ.jpg" group-title="🎬 SAGAS ▶️",Scooby-Doo: Comienza el misterio
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/0f3a5bfe-32d6-498f-88bb-e2c68a1d6730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE Money in the Bank 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xp5SawR1crU65fHE5fjeE4yam6j.jpg" group-title="🎬 WWE ▶️",WWE Money in the Bank 2023
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max 3: Más allá de la cúpula del trueno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgmOX4PQl5xPAdAx18zPPnQjQKs.jpg" group-title="🎬 SAGAS ▶️",Mad Max 3: Más allá de la cúpula del trueno
+#EXTINF:-1 tvg-id="" tvg-name="Wild Wild Punjab" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdaMSEGmDTEUDH5qq3jnrcF0pMi.jpg" group-title="🎬 ESTRENOS 2024 🔥",Wild Wild Punjab
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Días del futuro pasado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg" group-title="🎬 MARVEL ▶️",X-Men: Días del futuro pasado
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/0386a099-8829-469b-b989-cefc36de9504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Héroes, el asilo contra la opresión" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fb3uwevCZ5yZsI6qXrteTYuxC3j.jpg" group-title="🎬 COMEDIA ▶️",Héroes, el asilo contra la opresión
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos en el Pacífico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7SAtIH0aPMabGfqV4iYIcAWAwF.jpg" group-title="🎬 GUERRAS ▶️",Perdidos en el Pacífico
+#EXTINF:-1 tvg-id="" tvg-name="Me estás matando, Susana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex7qgLLenbWnc77tG3eatlv13ol.jpg" group-title="🎬 ROMANCE ▶️",Me estás matando, Susana
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/f44a9d2f-f9f4-49eb-906f-944f9704d224.mp4
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/6d52cd46-d36b-4100-9222-49d3bbeeedf6.mp4
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/2ba2c471-26f8-4343-b30d-ec766b436d52.mp4
+http://daleplay.club:8080/movie/Jhon44xv/Eu5HqzGKwNQ7/65b13840-ac1f-4053-9408-e6ea82841643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S1 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnzjHQQ262mhiK2f5NyQZsxeV55.jpg" group-title="🎞️ NETFLIX ▶️",Luis Miguel: La Serie S1 E2
+#EXTINF:-1 tvg-id="" tvg-name="Spidey y su superequipo S1 E1" tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUtyUNjg90YfFE1pV0cUZc7vKzUJgSWsIYjhllMa5i1CmdiP29nTETJuiQX8_WBYLI.jpg" group-title="* SERIES ANIMACION⏯️✅*",Spidey y su superequipo S1 E1
