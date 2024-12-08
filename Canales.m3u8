@@ -1,18 +1,99 @@
-#EXTINF:-1,Sony Ten 2
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd
-#EXTINF:-1,Tata Play Classic Cinema
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd
-#EXTINF:-1,Dangal 2
-#EXTINF:-1,Anaadi TV
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd
-#EXTINF:-1,Star Maa Movies HD
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd
-#EXTINF:-1,Unknown_885
-http://headiptv.com:8080/movie/tolgaytopatan/1g1p1e2se/74754.mp4
-http://headiptv.com:8080/movie/tolgaytopatan/1g1p1e2se/54274.mp4
-http://headiptv.com:8080/movie/tolgaytopatan/1g1p1e2se/83496.mp4
-#EXTINF:-1,Unknown_16252
-#EXTINF:-1,Unknown_22305
-http://headiptv.com:8080/series/tolgaytopatan/1g1p1e2se/79687.mp4
-#EXTINF:-1,Unknown_25571
-#EXTINF:-1, TV COM DF
+#EXTM3U
+#EXTINF:-1,Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+#EXTINF:-1,Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF:-1,Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:-1,Zee Business
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
+#EXTINF:-1,Zee Marathi HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+#EXTINF:-1,Zee Talkies HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+#EXTINF:-1,Zee Cinemalu
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+#EXTINF:-1,Zee Kannada
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+#EXTINF:-1,&TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF:-1,&picture
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#EXTINF:-1,RDX Goa
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist_dvr.m3u8
+#EXTINF:-1,Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1,Nimbark TV
+https://legitpro.co.in/nimbarktv/nimbarktvbox/index.m3u8
+#EXTINF:-1,#EXTINF:-1 ALJAZEERA LIVE
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1, RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+#EXTINF:-1, asia xxx
+https://dash-s4-c50-de-cdn.eporner.com/hls/v12/8067024-,240p,360p,480p,720p,.mp4.urlset/master.m3u8?hash=ZXjSZm1SqdP4PAe6XseO0Q&expires=1732889131&ip=190.11.93.32
+#EXTINF:-1,#EXTINF:-1 NOW ROCK LIVE
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,#EXTINF:-1 NOW 70s Live
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,EWTN HD
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1,SEÑAL COLOMBIA HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,NET TV HD
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1,BIG TV HD
+https://ssh101-fl.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CABLE VISION HD
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1,GOGOPLAY TV HD
+https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ANIME STATION TV HD
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LATINO KIDS HD
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+#EXTINF:-1,MONI TV HD
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1,GRACIA TV HD
+https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LOGOS TV KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w578670889.m3u8
+#EXTINF:-1,MAGICKIDS TV HD
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1,RETRO PLUS HD
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1431187379.m3u8
+#EXTINF:-1,VARIED TV HD
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1,TV EXITOS LATINOS HD
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1,V CLASSIC TV HD
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1125458491.m3u8
+#EXTINF:-1,VCLASSIC TROPICAL HD
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w887824733.m3u8
+#EXTINF:-1,K-POP radio HD
+https://server.dacsolution.com.br/shoutcast3/listen.mp3
+#EXTINF:-1,OLDIES HITS HD
+https://video07.logicahost.com.br/oldieshits/oldieshits/chunklist_w1167561577.m3u8
+#EXTINF:-1,SPIRIT TV HD
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LATINOS RADIO HD
+https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/chunklist_w183524107.m3u8
+#EXTINF:-1,TV ADORADORES GOSPEL HD
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w486567463.m3u8
+#EXTINF:-1,RECUERDOS RETRO HD
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w1613340350.m3u8
+#EXTINF:-1,VC MUSICA CRISTIANA HD
+https://panel.tvstream.cl:1936/8024/8024/chunklist_w1865927653.m3u8
+#EXTINF:-1,SPECTRUM TV HD
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HETAI
+https://dl.dropboxusercontent.com/scl/fi/v57a56bdtttspe8sm7uhw/VID-20241013-WA0318.mp4?rlkey=uys0yx5y8panwf84ks9o28o6z&st=tvdc4q0c&dl=0
+#EXTINF:-1, HETAI SIRVIENTA
+https://dl.dropboxusercontent.com/scl/fi/isnewdr6s98abz4tcw3s7/VID-20241013-WA0177.mp4?rlkey=62ou1qkuokr0idngl1rv1r8s2&st=ox3dqgvb&dl=0
+#EXTINF:-1, DIABLITA
+https://dl.dropboxusercontent.com/scl/fi/xkprq2psevx3jb7c2a27s/VID-20241013-WA0213.mp4?rlkey=fs79p2x90m2n1s8uc3bed22up&st=hcyvu6rn&dl=0
+#EXTINF:-1, CAZADOR DEMONIOS
+https://dl.dropboxusercontent.com/scl/fi/ovj1yskwzf6buetc854pi/km_20241015_360p_60f_20241015_124604.mp4?rlkey=026q2j6p2ygsn1b88waoacfor&st=ff2flzid&dl=0
+#EXTINF:-1, DIABLITOS
+https://dl.dropboxusercontent.com/scl/fi/k8eysdvfm31vdc3m0xsp0/km_20241015-1_480p_60f_20241015_132506.mp4?rlkey=1qxv4mwhmh0e85yzzrr7zznn8&st=lqn9xyik&dl=0
+#EXTINF:-1,新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
